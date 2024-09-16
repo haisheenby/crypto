@@ -84,3 +84,7 @@ git branch -a or git branch
 
 git switch <tên nhánh>
 => Chuyển qua nhánh <tên nhánh>
+
+
+### git pull
+=> pull code ở repo remote về local
