@@ -25,3 +25,5 @@ git init
 ### git add -A => dùng để thêm tất cả các file ở trong dự án vào trong staging
 
 ### git add <đường dẫn file> => Chỉ thêm file cụ thể vào trong staging
+
+### demo git conflict
