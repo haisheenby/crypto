@@ -88,3 +88,8 @@ git switch <tên nhánh>
 
 ### git pull
 => pull code ở repo remote về local
+
+git pull --no-ff
+
+### git clone <url repo>
+=> Dùng để clone source code của 1 repo bất kỳ
